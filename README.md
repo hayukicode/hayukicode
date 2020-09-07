@@ -13,9 +13,10 @@ Estou em Desenvolvimento de Sites e Web Design para Internet.
  
  **Languages and Frameworks:**
 <p align="left">
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php_48x48.png" alt="swift" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" alt="C" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_48x48.png" alt="git" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php_48x48.png" alt="php" width="40" height="40"/></code>&nbsp;
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" alt="html" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_48x48.png" alt="css" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_48x48.png" alt="java" width="40" height="40" /></code>&nbsp;
    </p>
    
 <p align="left">
