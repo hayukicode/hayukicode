@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hayukicode&show_icons=true&theme=radical)
 
 <details>
   <summary> <b> About Me! </b> <i>(Clique para expandir)</i> </summary>
