@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-<!--
-**hayukicode/hayukicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <details>
@@ -12,7 +9,7 @@
   This is going to be hidden
 </details>
 
-
+<!--
 
 Here are some ideas to get you started:
 
