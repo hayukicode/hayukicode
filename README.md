@@ -1,6 +1,4 @@
-
  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hayukicode&show_icons=true&theme=radical)
 <img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
 
 <p align="left">
@@ -25,6 +23,8 @@ Estou em Desenvolvimento de Sites e Web Design para Internet.
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
    </p>
 
+ 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hayukicode&show_icons=true&theme=radical)
 <p align="left">
 <a href="iuricodebrasil@gmail.com" alt="Contributors">
 <img src="https://img.shields.io/badge/-iuricodebrasil@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=iuricodebrasil@gmail.com" /></a>
