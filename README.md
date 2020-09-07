@@ -26,12 +26,12 @@ Estou em Desenvolvimento de Sites e Web Design para Internet.
   
 <p align="left">
 <a href="hayukicodes@gmail.com" alt="Contributors">
-<img src="https://img.shields.io/badge/-iuricodebrasil@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=hayukicodes@gmail.com" /></a>
+<img src="https://img.shields.io/badge/-hayukicodes@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=hayukicodes@gmail.com" /></a>
   
 <a href="https://www.linkedin.com/in/hayukicodes" alt="Contributors">
-<img src="https://img.shields.io/badge/-Iuri%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hayukicode" /></a>
+<img src="https://img.shields.io/badge/-hayukicodes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hayukicode" /></a>
   
 <a href="https://twitter.com/hayukicodes" alt="Contributors">
-<img src="https://img.shields.io/badge/-iuriescreve-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hayukicodes" /></a>
+<img src="https://img.shields.io/badge/-hayukicodes-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hayukicodes" /></a>
  </p>
  
