@@ -6,9 +6,6 @@
 Estou em Desenvolvimento de Sites e Web Design para Internet.
  
 </p>
-
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hayukicode&show_icons=true&theme=radical)
  
  <p align="left">
   🔥 Pretendo aprender: <strong>ReactJS, Angular, Vue.JS, React Native, JSON, TypeScript, Node.JS e UX Design.</strong>
