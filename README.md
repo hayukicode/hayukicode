@@ -10,6 +10,10 @@ Estou em Desenvolvimento de Sites e Web Design para Internet.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hayukicode&show_icons=true&theme=radical)
  
+ <p align="left">
+  🔥 Pretendo aprender: <strong>ReactJS, Angular, Vue.JS, React Native, JSON, TypeScript, Node.JS e UX Design.</strong>
+</p>
+ 
  **Languages and Frameworks:**
 <p align="left">
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/swift/swift_48x48.png" alt="swift" width="40" height="40"/></code>&nbsp;
