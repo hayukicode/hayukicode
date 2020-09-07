@@ -7,14 +7,8 @@ Estou em Desenvolvimento de Sites e Web Design para Internet.
  
 </p>
 
-<details>
-  <summary> <b> About Me! </b> <i>(Clique para expandir)</i> </summary>
 
-  <br>
-  This is going to be hidden
-</details>
-
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hayukicode&show_icons=true&theme=radical)
  
  **Languages and Frameworks:**
 <p align="left">
@@ -23,8 +17,7 @@ Estou em Desenvolvimento de Sites e Web Design para Internet.
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
    </p>
 
- 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hayukicode&show_icons=true&theme=radical)
+  
 <p align="left">
 <a href="iuricodebrasil@gmail.com" alt="Contributors">
 <img src="https://img.shields.io/badge/-iuricodebrasil@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=iuricodebrasil@gmail.com" /></a>
