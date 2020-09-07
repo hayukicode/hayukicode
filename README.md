@@ -5,6 +5,15 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
+<details>
+  <summary> <b> About Me! </b> <i>(Clique para expandir)</i> </summary>
+
+  <br>
+  This is going to be hidden
+</details>
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
