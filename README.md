@@ -1,6 +1,7 @@
 ### Hi there 👋
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hayukicode&show_icons=true&theme=radical)
+<img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
 
 <details>
   <summary> <b> About Me! </b> <i>(Clique para expandir)</i> </summary>
