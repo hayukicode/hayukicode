@@ -11,8 +11,8 @@ Estou em Desenvolvimento de Sites e Web Design para Internet.
 </p>
   <div>
   <a href="https://github.com/hayukicode">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hayukicode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayukicode&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hayukicode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayukicode&layout=compact&langs_count=16&theme=dracula"/>
 <div> 
  
 <div style="display: inline_block"><br>
