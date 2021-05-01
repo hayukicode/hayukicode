@@ -9,9 +9,12 @@ Estou em Desenvolvimento de Sites e Web Design para Internet.
  <p align="left">
   🔥 Pretendo aprender: <strong>Angular, Vue.JS, React Native e UX Design.</strong>
 </p>
+  <div>
+  <a href="https://github.com/hayukicode">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hayukicode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayukicode&layout=compact&langs_count=16&theme=dracula"/>
+<div> 
  
-![HayukiCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayukicode&count_private=true)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
