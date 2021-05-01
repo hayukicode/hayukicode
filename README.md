@@ -1,4 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayukicode&show_icons=true&theme=radical)
 
 <p align="left">
   Olá, meu nome é Wellington sou Desenvolvedor Front-end e Back-End.
@@ -34,4 +33,4 @@ Estou em Desenvolvimento de Sites e Web Design para Internet.
 <a href="https://twitter.com/hayukicodes" alt="Contributors">
 <img src="https://img.shields.io/badge/-hayukicodes-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hayukicodes" /></a>
  </p>
- 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
