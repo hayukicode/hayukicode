@@ -1,6 +1,4 @@
-   
-<img align="right" alt="GIF" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="400" height="300" />
-
+ 
 <p align="left">
   Olá, meu nome é Wellington sou Desenvolvedor Front-end e Back-End.
 Estou em Desenvolvimento de Sites e Web Design para Internet.
