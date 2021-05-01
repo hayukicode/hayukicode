@@ -32,8 +32,6 @@ Estou em Desenvolvimento de Sites e Web Design para Internet.
   
 <a href="https://twitter.com/hayukicodes" alt="Contributors">
 <img src="https://img.shields.io/badge/-hayukicodes-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hayukicodes" /></a>
- </p>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hayukicode&repo=github-readme-stats" />
-</a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayukicode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ </p> 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayukicode)](https://github.com/anuraghazra/github-readme-stats)
