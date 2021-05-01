@@ -29,7 +29,7 @@ Estou em Desenvolvimento de Sites e Web Design para Internet.
   
 <p align="left">
 <a href="hayukicodes@gmail.com" alt="Contributors">
-<img src="https://img.shields.io/badge/-Gmail-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=hayukicodes@gmail.com" /></a>
+<img src="https://img.shields.io/badge/-Gmail-e34c41?style=for-the-badge&logo=gmail&logoColor=white&link=hayukicodes@gmail.com" /></a>
   
 <a href="https://www.instagram.com/wellington.hayuki" alt="Contributors">
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.linkedin.com/in/hayukicode" /></a>
