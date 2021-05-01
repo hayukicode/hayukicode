@@ -1,4 +1,6 @@
 
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
 <p align="left">
   Olá, meu nome é Wellington sou Desenvolvedor Front-end e Back-End.
 Estou em Desenvolvimento de Sites e Web Design para Internet.
