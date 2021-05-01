@@ -1,5 +1,5 @@
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://imgur.com/48vTTk4.jpg?raw=true" width="500" height="320" />
 
 <p align="left">
   Olá, meu nome é Wellington sou Desenvolvedor Front-end e Back-End.
