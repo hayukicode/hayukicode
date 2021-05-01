@@ -8,7 +8,7 @@ Estou em Desenvolvimento de Sites e Web Design para Internet.
 </p>
  
  <p align="left">
-  🔥 Pretendo aprender: <strong>ReactJS, Angular, Vue.JS, React Native, JSON, TypeScript, Node.JS e UX Design.</strong>
+  🔥 Pretendo aprender: <strong>Angular, Vue.JS, React Native e UX Design.</strong>
 </p>
  
  **Languages and Frameworks:**
