@@ -35,7 +35,7 @@ Estou em Desenvolvimento de Sites e Web Design para Internet.
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.linkedin.com/in/hayukicode" /></a>
   
 <a href="https://twitter.com/hayukicodes" alt="Contributors">
-<img src="https://img.shields.io/badge/twitter?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hayukicodes" /></a>
+<img src="https://img.shields.io/badge/-Twitter?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hayukicodes" /></a>
  </p> 
  
 ![HayukiCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayukicode&count_private=true)
