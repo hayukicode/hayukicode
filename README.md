@@ -19,8 +19,10 @@ Estou em Desenvolvimento de Sites e Web Design para Internet.
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
 </div> 
-#
-  <br>
+
+  <br>  
+  ##
+  
 <div>
 <a href="hayukicodes@gmail.com" alt="Contributors">
 <img src="https://img.shields.io/badge/-Gmail-e34c41?style=for-the-badge&logo=gmail&logoColor=white&link=hayukicodes@gmail.com" /></a>
